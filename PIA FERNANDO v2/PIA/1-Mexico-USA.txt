@@ -1,0 +1,2 @@
+ID del Vuelo: 1		 Origen: Mexico	 Destino: USA	Fecha: 06/03/2024 17:55:19
+Rosy Elena Garza Edad:24 Asiento: 1 Nacionalidad: Mexicana Estatus: Abordo

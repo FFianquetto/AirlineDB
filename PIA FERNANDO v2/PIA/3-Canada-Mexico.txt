@@ -1,0 +1,3 @@
+ID del Vuelo: 3		 Origen: Canada	 Destino: Mexico	Fecha: 06/06/2024 18:03:35
+Juan Diaz Robles Edad:0 Asiento: 3 Nacionalidad: Canadiense Estatus: Compro el boleto
+Rosy Elena Garza Edad:24 Asiento: 2 Nacionalidad: Mexicana Estatus: Compro el boleto

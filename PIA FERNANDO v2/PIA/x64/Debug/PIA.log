@@ -1,0 +1,23 @@
+﻿  main.cpp
+C:\Users\cuale\C++\PIA FINAL - FERNANDO Y ALBERTO\PIA ALBERTO v2\PIA\main.cpp(886,19): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\cuale\C++\PIA FINAL - FERNANDO Y ALBERTO\PIA ALBERTO v2\PIA\main.cpp(1513,32): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\cuale\C++\PIA FINAL - FERNANDO Y ALBERTO\PIA ALBERTO v2\PIA\main.cpp(1753,32): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\cuale\C++\PIA FINAL - FERNANDO Y ALBERTO\PIA ALBERTO v2\PIA\main.cpp(1970,32): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\cuale\C++\PIA FINAL - FERNANDO Y ALBERTO\PIA ALBERTO v2\PIA\main.cpp(1997,37): warning C4244: 'argumento': conversión de 'float' a 'UINT'; posible pérdida de datos
+C:\Users\cuale\C++\PIA FINAL - FERNANDO Y ALBERTO\PIA ALBERTO v2\PIA\main.cpp(1998,38): warning C4244: 'argumento': conversión de 'float' a 'UINT'; posible pérdida de datos
+C:\Users\cuale\C++\PIA FINAL - FERNANDO Y ALBERTO\PIA ALBERTO v2\PIA\main.cpp(2066,47): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\cuale\C++\PIA FINAL - FERNANDO Y ALBERTO\PIA ALBERTO v2\PIA\main.cpp(2068,45): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\cuale\C++\PIA FINAL - FERNANDO Y ALBERTO\PIA ALBERTO v2\PIA\main.cpp(2072,34): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\cuale\C++\PIA FINAL - FERNANDO Y ALBERTO\PIA ALBERTO v2\PIA\main.cpp(2073,32): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\cuale\C++\PIA FINAL - FERNANDO Y ALBERTO\PIA ALBERTO v2\PIA\main.cpp(2249,25): warning C4806: '!=': operación no segura: ningún valor del tipo 'bool' promovido al tipo 'int' puede igualar la constante proporcionada
+C:\Users\cuale\C++\PIA FINAL - FERNANDO Y ALBERTO\PIA ALBERTO v2\PIA\main.cpp(2452,32): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\cuale\C++\PIA FINAL - FERNANDO Y ALBERTO\PIA ALBERTO v2\PIA\main.cpp(2557,32): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\cuale\C++\PIA FINAL - FERNANDO Y ALBERTO\PIA ALBERTO v2\PIA\main.cpp(2564,38): warning C4244: 'argumento': conversión de 'float' a 'UINT'; posible pérdida de datos
+C:\Users\cuale\C++\PIA FINAL - FERNANDO Y ALBERTO\PIA ALBERTO v2\PIA\main.cpp(2565,38): warning C4244: 'argumento': conversión de 'float' a 'UINT'; posible pérdida de datos
+C:\Users\cuale\C++\PIA FINAL - FERNANDO Y ALBERTO\PIA ALBERTO v2\PIA\main.cpp(2728,16): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\cuale\C++\PIA FINAL - FERNANDO Y ALBERTO\PIA ALBERTO v2\PIA\main.cpp(2817,16): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\cuale\C++\PIA FINAL - FERNANDO Y ALBERTO\PIA ALBERTO v2\PIA\main.cpp(3012,16): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\cuale\C++\PIA FINAL - FERNANDO Y ALBERTO\PIA ALBERTO v2\PIA\main.cpp(3047,16): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\cuale\C++\PIA FINAL - FERNANDO Y ALBERTO\PIA ALBERTO v2\PIA\main.cpp(929): warning C4715: 'idPasajero': no todas las rutas de acceso de control devuelven un valor
+C:\Users\cuale\C++\PIA FINAL - FERNANDO Y ALBERTO\PIA ALBERTO v2\PIA\main.cpp(913): warning C4715: 'buscarPasajero': no todas las rutas de acceso de control devuelven un valor
+  PIA.vcxproj -> C:\Users\cuale\C++\PIA FINAL - FERNANDO Y ALBERTO\PIA ALBERTO v2\x64\Debug\PIA.exe
